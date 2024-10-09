@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uniabern.github.io/sitemap.html.gz
+Sitemap: https://uniabern.github.io/app/sitemap.html.gz
+Sitemap: https://uniabern.github.io/assets/sitemap.html.gz
+Sitemap: https://uniabern.github.io/css/sitemap.html.gz
+Sitemap: https://uniabern.github.io/includes/sitemap.html.gz
+Sitemap: https://uniabern.github.io/item/sitemap.html.gz
+Sitemap: https://uniabern.github.io/src/sitemap.html.gz
